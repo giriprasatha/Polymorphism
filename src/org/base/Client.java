@@ -18,6 +18,7 @@ public class Client  {
 	
 	private void empInfo(float salary) {
 		System.out.println("employee salary is "+salary);
+	System.out.println("Emplyee Salary");
 	
 
 	}
